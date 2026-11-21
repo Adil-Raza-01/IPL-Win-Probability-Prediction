@@ -202,21 +202,9 @@ IPL-Win-Probability-Prediction/
 
 
 
-\## Author
+## Project Demonstration
+https://github.com/user-attachments/assets/3cc36ca1-ef2a-4ce3-a094-802d48497e86
 
 
 
-\*\*Adil Raza\*\*
-
-
-
-B.Tech – Computer Science and Engineering (Artificial Intelligence and Machine Learning)
-
-
-
-\---
-
-
-
-\*Developed as a group academic project for Introduction to Machine Learning.\*
 
